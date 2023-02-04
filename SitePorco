@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arthas</title>
+
+   <style>
+     h1.a{
+        text-align: center
+    }
+    ul{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;"
+    }
+
+   </style>
+    
+</head>
+<body>
+    <h1 class="a" text-align: center; style= "font-family: Verdana, Geneva, Tahoma, sans-serif;" text-align: center, >Arthur Silva de Albuquerque</h1>
+
+    <img src="Eu.png" alt="Arthur">
+    <ul >
+        <li>
+            <a href="https://github.com/Arthas01">Github</a>
+        </li>
+        <li>
+            <a href="https://www.instagram.com/arthas.jpg/">Instagram</a>
+        </li>
+
+    </ul>
+
+
+</body>
+</html>
